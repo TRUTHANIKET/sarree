@@ -12,7 +12,7 @@ export default function Products() {
         wee:"saaree",
         name:"saaree's",
         description:"weeeee",
-        image:"./images/saree15.jpg"
+        image:"./images/saree1.jpg"
     },
     {tag:"lengha",
         wee:"lengha",
