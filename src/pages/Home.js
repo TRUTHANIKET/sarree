@@ -9,6 +9,7 @@ import Products from '../components/Products'
 import Tailwindcard from '../components/Tailwindcard'
 import Modal from '../components/minicomponents/Modal'
 import ImageScroll from '../components/ImageScroll'
+import Carousel from './Carousel'
 
 export default function Home() {
   return (
@@ -29,7 +30,7 @@ export default function Home() {
  <br></br>
  <hr></hr>
  <br></br>
-<ImageScroll/>
+
     <Products/>
     <Footer/>
     

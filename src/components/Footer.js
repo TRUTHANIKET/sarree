@@ -5,22 +5,21 @@ export default function Footer() {
     <>
     <div className="container">
   <footer className="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
-    <p className="col-md-4 mb-0 text-muted">© 2022 Company, Inc</p>
+    <p className="col-md-4 mb-0 text-muted">© 2023 P. Hemant Textiles</p>
 
     <a href="/" className="col-md-4 d-flex align-items-center justify-content-center mb-3 mb-md-0 me-md-auto link-dark text-decoration-none">
-    <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-width="100" height="100"
-viewBox="0 0 48 48">
-<path fill="#ffca28" d="M44,24c0,11-9,20-20,20S4,35,4,24S13,4,24,4S44,13,44,24z"></path><path fill="#5d4037" d="M33,27c0,0.86-0.27,4.11-1.69,7.01H16.65c-1.42-2.9-1.7-6.15-1.65-7.01H33z"></path><path fill="#b76c09" d="M13.8 21.6l-1.6-1.2C12.3 20.3 14 18 17 18s4.7 2.3 4.8 2.4l-1.6 1.2c0 0-1.3-1.6-3.2-1.6S13.8 21.6 13.8 21.6zM27.8 21.6l-1.6-1.2C26.3 20.3 28 18 31 18s4.7 2.3 4.8 2.4l-1.6 1.2c0 0-1.3-1.6-3.2-1.6S27.8 21.6 27.8 21.6z"></path><path fill="#c62828" d="M31.31,34.01C30.04,36.65,27.81,39,24,39s-6.05-2.35-7.35-4.99c0,0,1.975-2.01,7.35-2.01 S31.31,34.01,31.31,34.01z"></path>
-</svg>
+  <svg xmlns="http://www.w3.org/2000/svg"  width="129" zoomAndPan="magnify" viewBox="0 0 419.25 297.75" height="126" version="1.0"><defs><clipPath id="888db473e5">
+  <path d="M 29 0.140625 L 382 0.140625 L 382 297.359375 L 29 297.359375 Z M 29 0.140625 " clip-rule="nonzero"/></clipPath></defs><path fill="#610f20" d="M 205.550781 36.859375 C 266.414062 36.859375 315.757812 86.210938 315.757812 147.085938 C 315.757812 207.960938 266.414062 257.3125 205.550781 257.3125 C 144.6875 257.3125 95.347656 207.960938 95.347656 147.085938 C 95.347656 86.210938 144.6875 36.859375 205.550781 36.859375 Z M 205.550781 36.859375 " fill-opacity="1" fill-rule="evenodd"/><g clip-path="url(#888db473e5)"><path stroke-linecap="butt" transform="matrix(4.137605, 0, 0, 4.138406, -73.666865, -229.843415)" fill="none" stroke-linejoin="miter" d="M 67.482912 61.34129 C 83.908099 61.34129 97.222527 74.655974 97.222527 91.080815 C 97.222527 107.505657 83.908099 120.820341 67.482912 120.820341 C 51.05867 120.820341 37.743298 107.505657 37.743298 91.080815 C 37.743298 74.655974 51.05867 61.34129 67.482912 61.34129 Z M 67.482912 61.34129 " stroke="#610f20" stroke-width="2.25" stroke-opacity="1" stroke-miterlimit="4"/></g>
+  <path fill="#b49766" d="M 205.632812 141.976562 C 215.199219 141.976562 225.480469 141.976562 235.046875 141.976562 C 235.046875 162.757812 235.046875 183.535156 235.046875 204.3125 C 239.789062 204.3125 244.53125 204.3125 249.269531 204.3125 C 249.269531 183.621094 249.269531 162.929688 249.269531 142.238281 C 256.167969 142.238281 263.0625 142.238281 269.957031 142.238281 C 288.109375 138.371094 297.148438 112.132812 281.078125 96.972656 C 265.597656 83.363281 234.058594 89.539062 235.046875 113.269531 C 235.046875 119.042969 235.046875 124.820312 235.046875 130.597656 C 225.476562 130.683594 215.199219 130.769531 205.632812 130.855469 C 196.0625 130.769531 185.621094 130.683594 176.054688 130.597656 C 176.054688 124.820312 176.054688 119.042969 176.054688 113.269531 C 177.042969 89.539062 145.503906 83.363281 130.023438 96.972656 C 113.953125 112.132812 122.988281 138.371094 141.140625 142.238281 C 148.039062 142.238281 154.933594 142.238281 161.832031 142.238281 C 161.832031 162.929688 161.832031 183.621094 161.832031 204.3125 C 166.570312 204.3125 171.3125 204.3125 176.054688 204.3125 C 176.054688 183.535156 176.054688 162.757812 176.054688 141.976562 C 185.621094 141.976562 196.0625 141.976562 205.632812 141.976562 Z M 160.046875 127.226562 C 160.046875 122.054688 160.046875 119.984375 160.046875 114.808594 C 159.734375 103.121094 147.710938 101.90625 141.417969 105.734375 C 133.894531 110.3125 132.417969 126.582031 149.191406 127.097656 Z M 251.050781 127.226562 C 251.050781 122.054688 251.050781 119.984375 251.050781 114.808594 C 251.367188 103.121094 263.390625 101.90625 269.683594 105.734375 C 277.207031 110.3125 278.683594 126.582031 261.910156 127.097656 Z M 251.050781 127.226562 " fill-opacity="1" fill-rule="evenodd"/>
+  </svg>
     </a>
 
     <ul className="nav col-md-4 justify-content-end">
-      <li className="nav-item"><a href="#" className="nav-link px-2 text-muted">Home</a></li>
-      <li className="nav-item"><a href="#" className="nav-link px-2 text-muted">Features</a></li>
-      <li className="nav-item"><a href="#" className="nav-link px-2 text-muted">Pricing</a></li>
-      <li className="nav-item"><a href="#" className="nav-link px-2 text-muted">FAQs</a></li>
-      <li className="nav-item"><a href="#" className="nav-link px-2 text-muted">About</a></li>
+      <li className="nav-item"><a href="/" className="nav-link px-2 text-muted">Home</a></li>
+      <li className="nav-item"><a href="/saaree" className="nav-link px-2 text-muted">Saaree's</a></li>
+      <li className="nav-item"><a href="/lengha" className="nav-link px-2 text-muted">Lengha</a></li>
+      <li className="nav-item"><a href="/contact" className="nav-link px-2 text-muted">Contact</a></li>
+      <li className="nav-item"><a href="/about" className="nav-link px-2 text-muted">About</a></li>
     </ul>
   </footer>
 </div>
