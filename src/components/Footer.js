@@ -16,8 +16,7 @@ export default function Footer() {
 
     <ul className="nav col-md-4 justify-content-end">
       <li className="nav-item"><a href="/" className="nav-link px-2 text-muted">Home</a></li>
-      <li className="nav-item"><a href="/saaree" className="nav-link px-2 text-muted">Saaree's</a></li>
-      <li className="nav-item"><a href="/lengha" className="nav-link px-2 text-muted">Lengha</a></li>
+
       <li className="nav-item"><a href="/contact" className="nav-link px-2 text-muted">Contact</a></li>
       <li className="nav-item"><a href="/about" className="nav-link px-2 text-muted">About</a></li>
     </ul>
