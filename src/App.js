@@ -9,6 +9,7 @@ import Lengha from './pages/Lengha';
 import All from './pages/All';
 import About from './pages/About';
 import Acchu from './pages/Acchu'
+import AboutDevs from './pages/AboutDevs'
 import Khambat from './pages/Khambat'
 function App() {
   return (
@@ -23,7 +24,7 @@ function App() {
       <Route path='/contact' element={<Contact/>}></Route>
       <Route path='/acchupatola' element={<Acchu/>}></Route>
       <Route path='/khambatpatola' element={<Khambat/>}></Route>
-      <Route path='/special2' element={<ProductDetails/>}></Route>
+      <Route path='/aboutdevs' element={<AboutDevs/>}></Route>
 
       <Route path='*' element={<NotFound/>}></Route>
     </Routes>

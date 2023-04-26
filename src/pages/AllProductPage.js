@@ -12,126 +12,126 @@ export default function AllProductPage() {
       {
         image:"./images/saree1.jpg",
         name:"Banarasi kanjivaram",
-        slug:"/allproducts/ProductDetails",
+        
         desc:"aijghaoijghaog",
         tag:"saaree",
     },
     {
         image:"./images/saree2.jpg",
         name:"Patola border saree",
-        slug:"/allproducts/ProductDetails",
+       
         desc:"aijghaoijghaog",
         tag:"saaree",
     },
     {
         image:"./images/saree3.jpg",
         name:"Khaddi Georgette saree",
-        slug:"/allproducts/ProductDetails",
+       
         desc:"aijghaoijghaog",
         tag:"saaree",
     },
     {
         image:"./images/saree4.jpg",
         name:"Patola border saree",
-        slug:"/allproducts/ProductDetails",
+       
         desc:"aijghaoijghaog",
         tag:"saaree",
     },
     {
         image:"./images/saree5.jpg",
         name:"Khaddi georgette gharchola bandhani",
-        slug:"/allproducts/ProductDetails",
+        
         desc:"aijghaoijghaog",
         tag:"saaree",
     },
     {
         image:"./images/saree6.jpg",
         name:"Khaddi georgette baghban",
-        slug:"/allproducts/ProductDetails",
+       
         desc:"aijghaoijghaog",
         tag:"saaree",
     },
     {
         image:"./images/saree7.jpg",
         name:"Khaddi georgette lehariya bandhani brush",
-        slug:"/allproducts/ProductDetails",
+       
         desc:"aijghaoijghaog",
         tag:"saaree",
     },
     {
         image:"./images/saree8.jpg",
         name:"Lotus paithani",
-        slug:"/allproducts/ProductDetails",
+        
         desc:"aijghaoijghaog",
         tag:"saaree",
     },
     {
         image:"./images/saree9.jpg",
         name:"Kanjivaram with dharmavaram fusion",
-        slug:"/allproducts/ProductDetails",
+        
         desc:"aijghaoijghaog",
         tag:"saaree",
     },
     {
         image:"./images/saree10.jpg",
         name:"Khaddh georgette silver golden butti",
-        slug:"/allproducts/ProductDetails",
+       
         desc:"aijghaoijghaog",
         tag:"saaree",
     },
     {
         image:"./images/saree11.jpg",
         name:"Khaddi georgette silver golden bsndhani brush",
-        slug:"/allproducts/ProductDetails",
+      
         desc:"aijghaoijghaog",
         tag:"saaree",
     },
     {
         image:"./images/saree12.jpg",
         name:"Kanjivaram rangkaat",
-        slug:"/allproducts/ProductDetails",
+     
         desc:"aijghaoijghaog",
         tag:"saaree",
     },
     {
         image:"./images/saree13.jpg",
         name:"Khaddi georgette butti",
-        slug:"/allproducts/ProductDetails",
+      
         desc:"aijghaoijghaog",
         tag:"saaree",
     },
     {
         image:"./images/saree14.jpg",
         name:"Dharmavaram patola x kanjivaram border",
-        slug:"/allproducts/ProductDetails",
+      
         desc:"aijghaoijghaog",
         tag:"saaree",
     },
     {
         image:"./images/saree15.jpg",
         name:"Khaddi georgette bandhani brush saree",
-        slug:"/allproducts/ProductDetails",
+    
         desc:"aijghaoijghaog",
         tag:"saaree",
     },
     {
         image:"./images/saree16.jpg",
         name:"Lotus paithani saree",
-        slug:"/allproducts/ProductDetails",
+      
         desc:"aijghaoijghaog",
         tag:"saaree",
     },
     {
         image:"./images/saree17.jpg",
         name:"Banarasi kanjivaram",
-        slug:"/allproducts/ProductDetails",
+       
         desc:"aijghaoijghaog",
         tag:"saaree",
     },
     {
         image:"./images/saree18.jpg",
         name:"Khaddi georgette silver zari",
-        slug:"/allproducts/ProductDetails",
+        
         desc:"aijghaoijghaog",
         tag:"saaree",
     },

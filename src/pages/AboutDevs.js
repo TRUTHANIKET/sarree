@@ -4,8 +4,8 @@ export default function AboutDevs() {
   return (
     <>
   
-<div class="w-1/2 mx-auto">
-  <div class="w-full shadow-2xl subpixel-antialiased rounded h-64 bg-black border-black mx-auto">
+<div class="py-12 w-1/2 mx-auto">
+  <div class= "   w-full shadow-2xl subpixel-antialiased rounded h-64 bg-black border-black mx-auto">
     <div class="flex items-center h-6 rounded-t bg-gray-100 border-b border-gray-500 text-center text-black" id="headerTerminal">
       <div class="flex ml-2 items-center text-center border-red-900 bg-red-500 shadow-inner rounded-full w-3 h-3" id="closebtn">
       </div>
@@ -18,9 +18,12 @@ export default function AboutDevs() {
       </div>
 
     </div>
-    <div class="pl-1 pt-1 h-auto  text-green-200 font-mono text-xs bg-black" id="console">
-      <p class="pb-1">Last login: Wed Sep 25 09:11:04 on ttys002</p>
-      <p class="pb-1">Laraben:Devprojects laraben$</p>
+
+    <div class="pl-1 pt-1 h-auto text-green-200 font-mono text-xs bg-black" id="console">
+      <p class="pb-1">Last login: Wed April 26 09:11:04 on ttys002</p>
+       <p class="pb-1">Company : Anicreate$</p>
+      <p class="pb-1">Created By: Aniket Singh$</p>
+      <p class="pb-1">Helped By: Saurav Prajapati$</p>
     </div>
   </div> 
 </div></>
