@@ -1,8 +1,11 @@
 import React from 'react'
+import Footer from '../components/Footer';
+import Navbar from '../components/Navbar';
 
 export default function About() {
   return (
     <>
+    <Navbar/>
   <section className="bg-white dark:bg-gray-900">
     <div className="container px-6 py-10 mx-auto">
         <h1 className="text-2xl font-semibold text-center text-gray-800 capitalize lg:text-3xl dark:text-white">P.<span className="text-blue-500"> Hemant Textiles</span></h1>
@@ -84,6 +87,7 @@ Dvanit Lakhani
 
     </div>
 </section>
+    <Footer/>
     </>
   )
 }

@@ -5,6 +5,9 @@ import Footer from '../components/Footer'
 export default function Contact() {
   return (
 <>
+    
+<Navbar/>
+
 
 <section className="bg-white dark:bg-gray-900">
     <div className="container px-6 py-12 mx-auto">
